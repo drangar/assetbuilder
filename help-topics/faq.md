@@ -1,4 +1,5 @@
 # Frequently asked questions 
+
 1. Can I run it on any operating system?
 Yes, the container image has been built as a multi-architecture image so it can run on any architecture X86, ARM etc
 
