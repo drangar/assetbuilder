@@ -1,8 +1,7 @@
 # Asset Builder
 Asset Builder is a containerized utility that currently runs on any container runtime environment (Docker/Podman/Colima etc). It uses a lightweight SQLiteDB database to store the metadata and an object store bucket to store the actual code/script files and the metadata database.
 
-![ujrn4hxg09uxux59lexf](https://github.com/user-attachments/assets/c08529be-ce83-48b7-824f-24583fd8a76e)
-
+<img src="https://github.com/user-attachments/assets/d51c5644-691e-4f5c-a00a-09aa040736d2" alt="441879913-c08529be-ce83-48b7-824f-24583fd8a76e" width="50%" height="50%">
 
 ## Why Asset Builder?
 Asset Builder is meant to serve the following purposes:
