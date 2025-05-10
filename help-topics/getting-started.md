@@ -3,14 +3,15 @@ First steps include getting familiar with the user interface, key capabilities a
 
 ## Navigating the user interface
 Asset Builder has the following screens:
-* Home
-* Asset/task library
-* Asset details
-* Use case flows
-* Use case library
-* Manage configuration
-* Long running processes
-* Help/How-to
+
+- Home  
+- Asset/task library  
+- Asset details  
+- Use case flows  
+- Use case library  
+- Manage configuration  
+- Long running processes  
+- Help/How-to
 
 ### Home page
 The Home page serves as the entry point for AssetBuilder, enabling the user to navigate to other functions and also providing quick statistics on assets and potential action items to address.
