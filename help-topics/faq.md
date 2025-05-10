@@ -18,3 +18,8 @@
 6. Can I upload/download files/folders to the built-in IDE?
    Yes, one can right-click on the left hand pane in the IDE and choose to upload/download/delete/copy files/folders etc.
 
+7. Can I provide feedback (possible bugs, insufficient documentation, suggestions for additional parameterization/functionality etc) on existing assets?
+   Today one would need to identify the author for the asset, this is displayed on the asset library screen. Contact them via slack to make suggestions. We are working on a more efficient method/screen to do this, should be available shortly.
+
+8. What if I want changes to an asset and the author is not available to make changes immediately?
+   Today you will need to make a copy of the asset, make changes and use it. We are working on a more efficient method/screen to do this, should be available shortly.
