@@ -24,14 +24,11 @@ Clicking this button presents the user with options on how they could contribute
 2. I have code on my laptop, I want to upload it to Asset Builder (Size limit: 100MB)
 3. I don't have an IDE on my laptop, I want to write code using Asset Builder
 
-> [!IMPORTANT]
-Cloning their Git Repo enables the contributor to selectively clone their GitHub repository, make necessary changes and share usable assets with the rest of the community.
+> **IMPORTANT:** Cloning their Git Repo enables the contributor to selectively clone their GitHub repository, make necessary changes and share usable assets with the rest of the community.
 
-> [!NOTE]
-> Local file upload option allows contributors to upload zip files that will automatically be unzipped.
+> **NOTE:** Local file upload option allows contributors to upload zip files that will automatically be unzipped.
 
-> [!NOTE]
-> Built-in IDE that comes with Asset Builder is a full fledged IDE that also supports all VS Code/Code Server extensions.
+> **NOTE:** Built-in IDE that comes with Asset Builder is a full-fledged IDE that also supports all VS Code/Code Server extensions.
 
 #### Explore and use existing assets
 Clicking this button presents the user with the Asset library, allowing them to search for and find assets they are interested in using.
